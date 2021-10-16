@@ -1,7 +1,4 @@
-                                                         README
-
-
-
+#README
 
 TRIE
 Person 
